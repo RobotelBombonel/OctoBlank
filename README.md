@@ -22,7 +22,7 @@ OctoBlank is a chatbot AI developed in Python using the GPT4All library. It feat
 
 ## Details
 1. The dtb.json file can affect the AI responses so keep the dtb.json file clear if you want better responses (or train the AI in the dtb.json file for better responses)
-2. After you pressed the button `Send` it will take a few seconds for the AI to answer
+2. After you pressed the button `Send` it will take a few moments for the AI to answer
 3. This project was done using DeepSeek and ChatGPT (ChatGPT did the icon app - if you wanna convert the project into an app you will also have the app icon; Deepseek did the main functionalities)
 
 ## New version coming soon (OctoBlank v2.0)
