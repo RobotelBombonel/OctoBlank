@@ -1,6 +1,6 @@
 # OctoBlank v1.2
 
-OctoBlank is a premium chatbot AI developed in Python using the GPT4All library. It features a persistent memory system that can be fully customized and managed by the user. The AI operates via a sleek Pygame interface that provides a simple, modern user experience.
+OctoBlank is a chatbot AI developed in Python using the GPT4All library. It features a persistent memory system that can be fully customized and managed by the user. The AI operates via a sleek Pygame interface that provides a simple, modern user experience.
 
 ## Features
 - **Memory System**: 
