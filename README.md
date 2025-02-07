@@ -17,7 +17,7 @@ OctoBlank is a chatbot AI developed in Python using the GPT4All library. It feat
 
 ## How to install?
 1. Install the files and put them into a folder
-2. Install the python requirements - this project was done in python 3.13.2 (64-bit)
+2. Install the python requirements - for python 3.13.2 (64-bit)
 3. Open main.py file in VS Code and run the file
 
 ## Details
